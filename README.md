@@ -1,4 +1,3 @@
-#Calendar_2
 
 <!DOCTYPE html>
 <html>
