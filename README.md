@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>Student Calendar</title>
